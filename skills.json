@@ -56,10 +56,6 @@
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
-        "name": "VS-Code",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vscode_XKFRqf.png"
-    },
-    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
@@ -70,6 +66,10 @@
     {
         "name": "Postman",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     }
 
 ]
