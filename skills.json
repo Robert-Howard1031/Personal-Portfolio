@@ -2,6 +2,9 @@
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },{
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
         "name": "SQL",
@@ -10,10 +13,6 @@
     {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
         "name": "HTML5",
