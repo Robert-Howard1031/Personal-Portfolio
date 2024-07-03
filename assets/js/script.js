@@ -68,7 +68,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Student", "Software Engineer"],
+    strings: ["Student", "Software Engineer", "Software Developer", "Software Analyst"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
