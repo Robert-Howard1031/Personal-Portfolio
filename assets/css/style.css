@@ -781,6 +781,7 @@ header .navbar ul li a:hover {
   position: relative;
   background-color: inherit;
   width: 50%;
+  box-shadow: #ee00da;
 }
 /*circles on timeline*/
 .experience .container::after {
