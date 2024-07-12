@@ -800,7 +800,7 @@ header .navbar ul li a:hover {
   font-weight: 600;
   color: #000000;
   font-family: "Font Awesome\ 5 Free";
-  box-shadow: #ee00da;
+  
 }
 .experience .left {
   left: 0;
@@ -841,6 +841,7 @@ header .navbar ul li a:hover {
   background-color: rgb(0, 204, 255);
   position: relative;
   border-radius: 6px;
+  box-shadow: #ee00da;
 }
 .experience .content .tag {
   font-size: 1.3rem;
