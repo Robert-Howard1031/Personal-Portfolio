@@ -12,6 +12,18 @@
         "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"
     },
     {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/color/48/000000/react.png"
+    },
+    {
+        "name": "Shell Scripting",
+        "icon": "https://img.icons8.com/color/48/000000/Powershell.png"
+    },
+    {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
@@ -53,7 +65,7 @@
     },
     {
         "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/powershell.png"
+        "icon": "https://img.icons8.com/color/48/000000/postgresql.png"
     },
     {
         "name": "GitHub",
