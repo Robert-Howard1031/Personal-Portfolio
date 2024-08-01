@@ -60,6 +60,10 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure.png"
+    },
+    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
