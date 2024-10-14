@@ -38,15 +38,5 @@
       "view": "https://www.linkedin.com/in/robert-howard-/details/projects/",
       "code": "https://github.com/Robert-Howard1031/calculator-Javascript/tree/main"
     }
-  },
-  {
-    "name": "To-do List",
-    "desc": "Simple To-do list application Built with PHP, HTML, and CSS. Allows user to add tasks and categories. Everything is stored in a MySQL Database.",
-    "image": "todo",
-    "category": "php",
-    "links": {
-      "view": "https://www.linkedin.com/in/robert-howard-/details/projects/",
-      "code": "https://github.com/Robert-Howard1031/to-do-list"
-    }
   }
 ]
